@@ -1,5 +1,4 @@
 # Password Manager
-# Password Manager
 
 This is a simple password manager application built using C#. It allows you to store, retrieve, update, and delete passwords for various websites/apps securely.
 
